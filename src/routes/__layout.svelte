@@ -22,6 +22,7 @@
     header {
       display: flex;
       justify-content: center;
+      align-items: center;
     }
     main {
       max-width: 960px;
